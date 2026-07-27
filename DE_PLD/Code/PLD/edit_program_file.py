@@ -1,3 +1,5 @@
+# This file contains a function to set up the programming GUI.
+
 import customtkinter as ctk
 from error_file import error
 from program_program_file import program_gui

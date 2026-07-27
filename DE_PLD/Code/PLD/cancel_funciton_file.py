@@ -1,3 +1,5 @@
+# This file provides the functions to create a cancel confirmation pop-up.
+
 import customtkinter as ctk
 from messagebox_file import messagebox
 

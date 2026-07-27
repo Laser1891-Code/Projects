@@ -1,3 +1,5 @@
+# This file provides a function to create an error window when something goes wrong.
+
 import customtkinter as ctk
 import os
 
@@ -25,4 +27,3 @@ def error(app,desc="No details provided."):
 
     close_button = ctk.CTkButton(master=error_panel,text="Okay",command=lambda:error_panel.destroy())
     close_button.pack(pady=5)
-

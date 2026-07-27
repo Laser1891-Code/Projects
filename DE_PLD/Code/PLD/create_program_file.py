@@ -1,3 +1,5 @@
+# This file contains the function to create a new program.
+
 import os
 
 def create_program(app):

@@ -1,3 +1,5 @@
+# This file sets up the entire program.
+
 import customtkinter as ctk
 import os
 from main_program_file import main_app

@@ -1,0 +1,1 @@
+This folder contains the prototyping document that I used to develop my initial PLD circuit. The AOI execution section was used in my final design.

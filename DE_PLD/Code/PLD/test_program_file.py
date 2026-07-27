@@ -1,3 +1,6 @@
+# This file provides the code to test a program digitally.
+# This file was created with AI assistance. 
+
 import customtkinter as ctk
 import os
 from generate_truthtable_file import create_truthtable

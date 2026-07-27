@@ -1,3 +1,5 @@
+# This file provides a function that creates a message popup with dynamic content.
+
 import customtkinter as ctk
 
 def messagebox(app, title, desc, choice_1, choice_2):

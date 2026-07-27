@@ -1,0 +1,1 @@
+In this folder, there is the file for my final circuit design, and image of the circuit, and a video explanation of how it works.

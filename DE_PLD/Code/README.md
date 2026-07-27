@@ -1,0 +1,1 @@
+This folder contains the software needed to program the circuit. The software can be executed via the standalone exe file or via python.

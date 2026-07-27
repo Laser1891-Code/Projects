@@ -1,3 +1,5 @@
+# This file contains the main GUI.
+
 import customtkinter as ctk
 import tkinter.messagebox as mb
 import os

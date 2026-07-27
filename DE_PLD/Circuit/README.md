@@ -1,0 +1,2 @@
+These are all of the files pertaining to my circuit's design.
+There were 2 main attempts at designing this circuit. The first attempt is unfinished, as I found a better way to do it, which is in the final product. Check out each folder to see how each design works.

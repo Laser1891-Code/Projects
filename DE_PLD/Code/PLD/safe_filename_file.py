@@ -1,3 +1,6 @@
+# This file provides the funciton to make the name of a file safe for windows explorer. 
+# This file was generated with the help of AI.
+
 import re
 import os
 

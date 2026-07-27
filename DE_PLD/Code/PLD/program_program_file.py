@@ -1,3 +1,5 @@
+# This file provides the functions and GUI that the user uses to create a program. 
+
 import customtkinter as ctk
 from cancel_funciton_file import cancel
 from safe_filename_file import safe_filename

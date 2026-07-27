@@ -1,3 +1,5 @@
+# This file contains the code that produces a truthtable using the active program.
+
 import customtkinter as ctk
 import os
 

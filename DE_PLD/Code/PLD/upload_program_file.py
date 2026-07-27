@@ -1,3 +1,5 @@
+# This file provides the function to create the arduino sketch, and then upload it using upload_sketch_function_file.py
+
 import customtkinter as ctk
 from upload_sketch_function_file import upload
 import os
