@@ -1,0 +1,23 @@
+# ------------------------------
+# Arduino CLI config for standalone
+# ------------------------------
+
+directories:
+  data: Arduino15         # points to your bundled Arduino15 folder
+  downloads: Arduino15    # caches downloads here
+  user: Arduino15         # user preferences stored here
+  sketchbook: sketches    # optional, can be relative path
+
+board_manager:
+  additional_urls:
+    - https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
+
+logging:
+  file: false
+  level: info
+
+daemon:
+  port: 50051
+
+metrics:
+  enabled: false

@@ -1,0 +1,1 @@
+This is the file storage area for the Custom PLD Programmer (CPLDP). Deleting these files/this folder won't break the program. It is automatically generated at the start of running the executable version of this program. - Ralph

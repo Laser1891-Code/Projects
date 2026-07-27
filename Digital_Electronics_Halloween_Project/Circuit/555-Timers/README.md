@@ -1,0 +1,1 @@
+These are the 555 timer calculations done by NI Multisim to generate the musical notes.

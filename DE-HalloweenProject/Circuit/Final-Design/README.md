@@ -1,1 +1,0 @@
-This is the final design that I ended up making. It uses a binary counter and logic gates to be more efficient (and cool).
